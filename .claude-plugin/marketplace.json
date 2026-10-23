@@ -31,6 +31,21 @@
         ],
         "run": "Then run `/rent-check` in your busiest repo"
       }
+    },
+    {
+      "name": "hovstack",
+      "description": "Rehearsal probe: dummy skills in a skill-pack layout.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/StartupBros-com/rehearsal-monorepo.git",
+        "path": "plugins/hovstack",
+        "sha": "b50139c4419837817d344f424fa87c61f26ab461"
+      },
+      "metadata": {
+        "version": "0.1.0",
+        "releaseId": 392577556,
+        "releaseTag": "hovstack--v0.1.0"
+      }
     }
   ]
 }
