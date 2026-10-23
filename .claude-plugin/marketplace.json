@@ -15,13 +15,13 @@
         "source": "git-subdir",
         "url": "https://github.com/StartupBros-com/rehearsal-monorepo.git",
         "path": "plugins/rent-check",
-        "sha": "b50139c4419837817d344f424fa87c61f26ab461"
+        "sha": "0123456789abcdef0123456789abcdef01234567"
       },
       "description": "Every always-loaded line pays rent or gets cut. /rent-check audits CLAUDE.md, AGENTS.md, rules dirs and the always-loaded surface around them: load-class costing, enforcement-backing analysis (which rules are just words), reality drift against the live repo, and evidence-tiered verdicts with folklore labeled as folklore — report-first, verified draft diffs, never auto-applied.",
       "metadata": {
-        "version": "0.3.2",
-        "releaseId": 392577555,
-        "releaseTag": "rent-check--v0.3.2"
+        "version": "0.3.3",
+        "releaseId": 392577558,
+        "releaseTag": "rent-check--v0.3.3"
       },
       "card": {
         "rows": [
